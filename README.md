@@ -22,7 +22,9 @@ During the examples and exercises, we will look at solving the following queries
 ## Getting started
 
 To get started clone this repository:
-`git clone https://github.com/pbonte/rsp4j-bigdata2021/`
+```
+git clone https://github.com/pbonte/rsp4j-bigdata2021/
+```
 
 Move to the rsp4j-bigdata2021 folder and compile through maven:
 ```
