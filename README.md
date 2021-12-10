@@ -19,6 +19,21 @@ For simplicty, we show them here in tabular format and how they are mapped to th
 During the examples and exercises, we will look at solving the following queries:
 ![Corona scenario](fig/covid_queries.png) 
 
+## Getting started
+
+To get started clone this repository:
+`git clone https://github.com/pbonte/rsp4j-bigdata2021/`
+
+Move to the rsp4j-bigdata2021 folder and compile through maven:
+```
+cd rsp4j-bigdata2021/
+mvn clean install -DskipTests
+```
+
+Open the project with your favorate IDE, e.g. IntelliJ or Eclipse.
+
+You can find the examples in the folder `src/main/java/org/streamreasoning/rsp4j/bigdata2021/processing/examples/` and the assignments in `src/main/java/org/streamreasoning/rsp4j/bigdata2021/processing/assignments/`.
+
 # RSP4J
 
 RSP4J is an API for the development of RSP engines. More information can be found on the [RSP4J website](https://github.com/streamreasoning/rsp4j).
